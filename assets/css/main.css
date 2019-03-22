@@ -1954,13 +1954,13 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-instagram {
+				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-instagram:hover {
+					background: #db6b67;
 				}
 
 		.icon.featured {
@@ -2513,7 +2513,7 @@ input, select, textarea {
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
-		text-align: center;
+		text-align: center;		
 	}
 
 		#banner .inner {
@@ -2530,7 +2530,7 @@ input, select, textarea {
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
-			text-align: center;
+			text-align: center;			
 		}
 
 			#banner .inner header {
